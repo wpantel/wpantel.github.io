@@ -1,0 +1,3 @@
+client id: d33ef33c938c4a5ebc267ccb692df976
+
+client secret: 9c2631691aec4b2c88d5de69c2d1d5d7
